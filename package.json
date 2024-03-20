@@ -12,7 +12,7 @@
   "gypfile": true,
   "dependencies": {
     "nan": "^2.3.5",
-    "node-gyp-build": "^3.2.2",
+    "node-gyp-build": "^4.8.0",
     "xtend": "^4.0.1"
   },
   "devDependencies": {
